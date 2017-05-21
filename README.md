@@ -6,7 +6,18 @@ Tools to fetch the complete history of a GroupMe group chat and analyze it.
 
 `analyze.py` allows you to take the JSON file created by `fetch.py` and display multiple stats.
 
-## Tutorials
+## Statistics Displayed
+1) Any messages with a specified number of likes 
+2) Message count by member 
+3) Like count by member 
+4) Like/post ratio by member 
+5) Message count by month 
+6) Message count by time of day 
+7) Any messages that contain a specified word.
+
+
+
+## Tutorial with Images
 [fetch.py](https://github.com/aroharia/GroupMe-Chat-Data-Analysis/wiki/fetch)
 
 [analysis.py](https://github.com/aroharia/GroupMe-Chat-Data-Analysis/wiki/analysis)
