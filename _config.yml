@@ -1,6 +1,6 @@
 theme: jekyll-theme-architect
 
 title: [GroupMe Chat Data Analysis]
-description: [Find multiple statistics of any GroupMe chat! This includes 1) any posts with a specified number of likes 2) message count by member 3) like count by member 4) like/post ratio by member 5) message count by month 6) message count by time of day 7) any messages that contain a specified word.]
+description: [Get stats for any GroupMe chat!]
 
 show_downloads: ["true"]
