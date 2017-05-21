@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/aroharia/GroupMe-Chat-Data-Analysis.png?branch=master)](https://travis-ci.org/aroharia/GroupMe-Chat-Data-Analysis)
+[![Python Status](https://img.shields.io/badge/python-2.6%2C%202.7-blue.svg)](https://www.python.org/downloads/release/python-2713/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/aroharia/GroupMe-Chat-Data-Analysis/issues)
 
 # GroupMe Chat Data Analysis
