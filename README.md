@@ -7,12 +7,18 @@ Tools to fetch the complete history of a GroupMe group chat and analyze it.
 `analyze.py` allows you to take the JSON file created by `fetch.py` and display multiple stats.
 
 ## Statistics Displayed
-1) Any messages with a specified number of likes 
-2) Message count by member 
-3) Like count by member 
-4) Like/post ratio by member 
-5) Message count by month 
-6) Message count by time of day 
+1) Message count by member
+
+2) Message count by month
+
+3) Message count by time of day
+
+4) Like count by member
+
+5) Like to post ratio by member
+
+6) Any messages with a specified number of likes
+
 7) Any messages that contain a specified word.
 
 
@@ -22,11 +28,11 @@ Tools to fetch the complete history of a GroupMe group chat and analyze it.
 
 [analysis.py](https://github.com/aroharia/GroupMe-Chat-Data-Analysis/wiki/analysis)
 
-## Finding your access token
+## Finding your Access Token
 
 Log into [GroupMe's web interface](https://dev.groupme.com/) and login on the top right of the page. Once you login, there should be a tab called "Access Token" in the top right where you will be able to retrieve your token for the `fetch.py` GUI
 
-## Finding your group ID
+## Finding your Group ID
 
 In `fetch.py`, enter your access token for ACCESS TOKEN and 'help' in the groupID textbox.
 
@@ -38,7 +44,7 @@ Another dependency is [Requests](http://docs.python-requests.org/en/latest/). `p
 
 The final dependency is [Gooey](https://github.com/chriskiehl/Gooey). (the tool used to implement the GUI)
 
-## Stress testing/performance
+## Stress Testing and Performance
 
 These tools have been tested with a transcript containing ~16,000 messages. It works fine.
 
