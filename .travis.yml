@@ -5,6 +5,7 @@ python:
 # command to install dependencies
 before_install:
   - pip install codecov
+  - pip install pytest-cov
   
 install:
   - pip install requests
@@ -16,3 +17,4 @@ script:
 
 after_success:
   - codecov
+  - py.test --cov=./
