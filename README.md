@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/aroharia/GroupMe-Chat-Data-Analysis.png?branch=master)](https://travis-ci.org/aroharia/GroupMe-Chat-Data-Analysis)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/aroharia/GroupMe-Chat-Data-Analysis/issues)
+
 # GroupMe Chat Data Analysis
 
 Tools to fetch the complete history of a GroupMe group chat and analyze it.
