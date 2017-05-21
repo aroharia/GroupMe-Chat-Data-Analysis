@@ -6,7 +6,10 @@ python:
 install:
   - pip install requests
   - pip install Gooey
+  - pip install codecov
+  - pip install pytest-cov
   
 # command to run tests
 script: 
-  - py.test
+  - py.test --cov=./
+  - codecov
