@@ -6,6 +6,10 @@ Tools to fetch the complete history of a GroupMe group chat and analyze it.
 
 `analyze.py` allows you to take the JSON file created by `fetch.py` and display multiple stats.
 
+## Tutorials
+[fetch.py](https://github.com/aroharia/GroupMe-Chat-Data-Analysis/wiki/fetch)
+
+[analysis.py](https://github.com/aroharia/GroupMe-Chat-Data-Analysis/wiki/analysis)
 
 ## Finding your access token
 
@@ -13,7 +17,7 @@ Log into [GroupMe's web interface](https://dev.groupme.com/) and login on the to
 
 ## Finding your group ID
 
-In `fetch.py`, enter your access token for ACCESS TOKEN and 'help' in the groupId textbox.
+In `fetch.py`, enter your access token for ACCESS TOKEN and 'help' in the groupID textbox.
 
 ## Requirements/Dependencies/Python
 
