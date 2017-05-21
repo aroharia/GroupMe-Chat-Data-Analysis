@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
+
+title: [GroupMe Chat Data Analysis]
+description: [Find multiple statistics of any GroupMe chat! This includes who talks the most, has the most likes, and any messages that contain a particular word.]
+
+show_downloads: ["true"]
