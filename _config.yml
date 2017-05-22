@@ -1,16 +1,7 @@
-#url: "http://aroharia.github.io/GroupMe-Chat-Data-Analysis"
-#baseurl: "/GroupMe-Chat-Data-Analysis"
-
 theme: jekyll-theme-architect
 
-image:
-  feature: images/groupme_chat_data_analysis_logo.jpg
-
-#avatar: "images/groupme_chat_data_analysis_logo.jpg"
-title-img: [images/groupme_chat_data_analysis_logo.jpg]
+title: [GroupMe Chat Data Analysis]
 description: [Get stats for any GroupMe chat!]
 
 show_downloads: ["true"]
-
-#url-pretty: "https://aroharia.github.io/mysite/"
 google_analytics: [UA-99586499-1]
