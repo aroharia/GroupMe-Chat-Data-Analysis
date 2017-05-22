@@ -3,8 +3,11 @@
 
 theme: jekyll-theme-architect
 
+image:
+  feature: images/groupme_chat_data_analysis_logo.jpg
+
 #avatar: "images/groupme_chat_data_analysis_logo.jpg"
-title-img: "images/groupme_chat_data_analysis_logo.jpg"
+title-img: [images/groupme_chat_data_analysis_logo.jpg]
 description: [Get stats for any GroupMe chat!]
 
 show_downloads: ["true"]
